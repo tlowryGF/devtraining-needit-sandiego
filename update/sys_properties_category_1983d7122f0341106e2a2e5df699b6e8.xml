@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-26 14:07:24</sys_created_on>
+        <sys_id>1983d7122f0341106e2a2e5df699b6e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_1983d7122f0341106e2a2e5df699b6e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-26 14:07:24</sys_updated_on>
+        <title><![CDATA[<p><span style="font-family: verdana, geneva; font-size: 10pt;"><strong>System Property NeedIt test</strong></span></p>
+<p><img style="align: baseline;" title="" src="sys_attachment.do?sys_id&#61;b0341f122f0341106e2a2e5df699b6ce" alt="" width="244" height="137.25" align="baseline" border="" hspace="" vspace="" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=1983d7122f0341106e2a2e5df699b6e8"/>
+</record_update>
